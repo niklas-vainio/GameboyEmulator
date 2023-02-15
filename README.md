@@ -7,6 +7,6 @@ Source code is contained in the `Gameboi` folder
 
 # Screenshots
 
-![Screenshot](https://i.postimg.cc/L6xqNX5j/Screen-Shot-2023-02-14-at-22-13-11.png)
-![Screenshot](https://i.postimg.cc/sg8MCNpX/Screen-Shot-2023-02-14-at-22-13-43.png)
-![Screenshot](https://i.postimg.cc/tgxYqN5z/Screen-Shot-2023-02-14-at-22-14-35.png)
+![Screenshot](https://i.postimg.cc/K8t6mKTM/Screen-Shot-2023-02-14-at-22-13-11.png)
+![Screenshot](https://i.postimg.cc/Xv8tyTQN/Screen-Shot-2023-02-14-at-22-13-43.png)
+![Screenshot](https://i.postimg.cc/g0dfjYyB/Screen-Shot-2023-02-14-at-22-14-35.png)
